@@ -1,0 +1,1 @@
+web: java -jar build/libs/projeto-spring-boot-api-0.0.1-SNAPSHOT.jar
